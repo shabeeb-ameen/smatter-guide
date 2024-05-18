@@ -23,11 +23,9 @@ Please note that you need to do this once for each device that you plan to use t
 
 1. Open a terminal on your device and enter
 
-    ssh-keygen -t ed25519 -C "<your_email@example.com>"
+        ssh-keygen -t ed25519 -C "<your_email@example.com>"
 
 Notes:
-  + Your email is merely a label for the ssh key, and you may use any other label of your choosing.
-  + ssh-keygen is a key generator tool that should already exist on your computer
-
-
+  + Your email here is merely a label for the ssh key, and you may use any other label of your choosing.
+  + ssh-keygen is a key generator tool that should already exist on your computer. When you use the above command, you create a public and private key pair. The keygen tool lets you choose where these are saved (default ~./ssh) and a password for the key (no password by default). To accept the default settings (which I think are adequate) just press enter when prompted (dont type in anything else!)
 2. 
