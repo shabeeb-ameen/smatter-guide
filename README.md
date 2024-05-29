@@ -3,7 +3,12 @@ Notes on using the smatter cluster at Syracuse University.
 
 # Contents:
 
-1. smatterReadme.md:
-Bare minimum for running code on the cluster.
+1. Chapter0: Introduction
+    + Logging in
+    + Setting up a SSH key
 
-2. (Planning to include an Advice.md for recommendations on general practice or workflow guidelines)
+1. Chapter1: Running Python Scripts
+    + Installing a Conda environment
+
+1. Chapter2: 
+
